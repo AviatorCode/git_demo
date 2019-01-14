@@ -1,7 +1,10 @@
-//This is the primary function of my program
+// This is a pretty contrived example
+
 
 function main(){
 console.log("Hello")
 }
 
 main()
+
+//End of file
